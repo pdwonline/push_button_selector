@@ -1,0 +1,15 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Create a Push Button Selector",
+          "data": {
+            "name": "Name",
+            "options": "Options (comma-separated)",
+            "icon": "Icon",
+            "secondary_info": "Secondary Info"
+          }
+        }
+      }
+    }
+  }

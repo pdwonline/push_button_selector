@@ -1,0 +1,11 @@
+{
+  "domain": "push_button_selector",
+  "name": "Push Button Selector",
+  "version": "1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/pdwonline/push_button_selector",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@pdwonline"],
+  "iot_class": "local_polling"
+}

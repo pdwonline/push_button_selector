@@ -1,0 +1,9 @@
+{
+    "name": "Push Button Selector",
+    "content_in_root": false,
+    "render_readme": true,
+    "domains": ["push_button_selector"],
+    "country": "ALL",
+    "homeassistant": "2021.11.0",
+    "iot_class": "Local Polling"
+  }
